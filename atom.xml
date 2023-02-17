@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://mingzhixiaozhan.github.io</id>
+    <title>明智小站</title>
+    <updated>2023-02-17T02:47:42.976Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://mingzhixiaozhan.github.io"/>
+    <link rel="self" href="https://mingzhixiaozhan.github.io/atom.xml"/>
+    <subtitle>同坐一条船，驶往同一港口。</subtitle>
+    <logo>https://mingzhixiaozhan.github.io/images/avatar.png</logo>
+    <icon>https://mingzhixiaozhan.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, 明智小站</rights>
+    <entry>
+        <title type="html"><![CDATA[“我看见人，见他们好像树木在行走。”]]></title>
+        <id>https://mingzhixiaozhan.github.io/post/wo-kan-jian-ren-jian-ta-men-hao-xiang-shu-mu-zai-xing-zou/</id>
+        <link href="https://mingzhixiaozhan.github.io/post/wo-kan-jian-ren-jian-ta-men-hao-xiang-shu-mu-zai-xing-zou/">
+        </link>
+        <updated>2023-02-16T06:17:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲍思高菜谱：匈牙利牛肉汤]]></title>
+        <id>https://mingzhixiaozhan.github.io/post/bao-si-gao-cai-pu-xiong-ya-li-niu-rou-tang/</id>
+        <link href="https://mingzhixiaozhan.github.io/post/bao-si-gao-cai-pu-xiong-ya-li-niu-rou-tang/">
+        </link>
+        <updated>2023-02-09T06:33:09.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[天主教青岛圣弥额尔主教座堂弥撒安排]]></title>
+        <id>https://mingzhixiaozhan.github.io/post/tian-zhu-jiao-qing-dao-sheng-mi-e-er-zhu-jiao-zuo-tang-mi-sa-an-pai/</id>
+        <link href="https://mingzhixiaozhan.github.io/post/tian-zhu-jiao-qing-dao-sheng-mi-e-er-zhu-jiao-zuo-tang-mi-sa-an-pai/">
+        </link>
+        <updated>2023-02-08T03:51:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[你们离弃天主的诫命，而只拘守人的传授。]]></title>
+        <id>https://mingzhixiaozhan.github.io/post/hello-word/</id>
+        <link href="https://mingzhixiaozhan.github.io/post/hello-word/">
+        </link>
+        <updated>2023-02-07T05:43:34.000Z</updated>
+    </entry>
+</feed>
